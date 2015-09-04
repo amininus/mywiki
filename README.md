@@ -1,3 +1,7 @@
+## Release
+- v0.0.1: 9/4/2015 - First Release
+
+
 ## About MyWiki
 잡다한 지식 창고???
 
